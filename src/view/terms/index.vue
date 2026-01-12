@@ -4,7 +4,7 @@
       <div class="content-block">
         <h2>Privacy Policy</h2>
         <p><strong>Last Updated: January 10th, 2026</strong></p>
-        <p>Crazy Maple Studio Inc. and its affiliates ("Crazy Maple Studio", "we", "us", or "our") are committed to protecting the privacy of our users ("you" or "users"). This Privacy Policy ("Policy") describes how we collect, store, use, and manage your information, including personal information, when you use our websites (such as http://www.crazymaplestudios.com), affiliated websites, subdomains, mobile applications, or games on iOS, Android, or other platforms (collectively, the "Services"). By using our Services, you acknowledge that you have read and understood this Policy.</p>
+        <p>STARHEAVEN MEDIA L.L.C and its affiliates ("STARHEAVEN MEDIA L.L.C", "we", "us", or "our") are committed to protecting the privacy of our users ("you" or "users"). This Privacy Policy ("Policy") describes how we collect, store, use, and manage your information, including personal information, when you use our websites (such as http://www.crazymaplestudios.com), affiliated websites, subdomains, mobile applications, or games on iOS, Android, or other platforms (collectively, the "Services"). By using our Services, you acknowledge that you have read and understood this Policy.</p>
         <p>For any questions or concerns about this Policy, please contact us at <a href="biz@startv.ae">biz@startv.ae</a>.</p>
 
         <h2>1. Information We Collect</h2>
