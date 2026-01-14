@@ -4,8 +4,8 @@
       <div class="content-block">
         <h2>Privacy Policy</h2>
         <p><strong>Last Updated: January 10th, 2026</strong></p>
-        <p>STARHEAVEN MEDIA L.L.C and its affiliates ("STARHEAVEN MEDIA L.L.C", "we", "us", or "our") are committed to protecting the privacy of our users ("you" or "users"). This Privacy Policy ("Policy") describes how we collect, store, use, and manage your information, including personal information, when you use our websites (such as http://www.crazymaplestudios.com), affiliated websites, subdomains, mobile applications, or games on iOS, Android, or other platforms (collectively, the "Services"). By using our Services, you acknowledge that you have read and understood this Policy.</p>
-        <p>For any questions or concerns about this Policy, please contact us at <a href="biz@startv.ae">biz@startv.ae</a>.</p>
+        <p> YUNTOP INTERNATIONAL PTE. LTD. and its affiliates ("YUNTOP INTERNATIONAL PTE. LTD.", "we", "us", or "our") are committed to protecting the privacy of our users ("you" or "users"). This Privacy Policy ("Policy") describes how we collect, store, use, and manage your information, including personal information, when you use our websites (such as http://www.crazymaplestudios.com), affiliated websites, subdomains, mobile applications, or games on iOS, Android, or other platforms (collectively, the "Services"). By using our Services, you acknowledge that you have read and understood this Policy.</p>
+        <p>For any questions or concerns about this Policy, please contact us at <a href="quochaid36@gmail.com">quochaid36@gmail.com</a>.</p>
 
         <h2>1. Information We Collect</h2>
         <p>We collect information about you in the following ways:</p>
@@ -95,7 +95,7 @@
         <h2>5. Security & Data Retention</h2>
         <p>We implement reasonable technical and organizational measures to protect your information.</p>
         <p>We retain your personal information only as long as necessary for the purposes outlined in this Policy or as required by law (generally a minimum of 5 years).</p>
-        <p>You may request account deletion or deactivation at <a href="biz@startv.ae">biz@startv.ae</a>.</p>
+        <p>You may request account deletion or deactivation at <a href="quochaid36@gmail.com">quochaid36@gmail.com</a>.</p>
 
         <h2>6. Children's Privacy</h2>
         <p>Our Services are not intended for children under 13 (or the applicable age of majority). We do not knowingly collect information from children. If we learn that we have collected information from a child, we will delete it as soon as possible.</p>
@@ -113,7 +113,7 @@
           <li><strong>California Residents (CCPA):</strong> Rights to know, delete, correct, opt-out of sharing, limit use of sensitive data, and non-discrimination.</li>
           <li><strong>EEA, UK, Switzerland (GDPR):</strong> Rights to access, correct, delete, restrict, object, and data portability.</li>
         </ul>
-        <p>To exercise these rights, contact <a href="biz@startv.ae">biz@startv.ae</a>.</p>
+        <p>To exercise these rights, contact <a href="quochaid36@gmail.com">quochaid36@gmail.com</a>.</p>
 
         <h2>9. Changes to This Policy</h2>
         <p>We may update this Policy periodically. Material changes will be notified via email or in-app notice. Please review this Policy regularly for updates.</p>
@@ -122,7 +122,7 @@
         <p>For questions or requests regarding this Policy:</p>
         <p>STARHEAVEN MEDIA L.L.C<br>
         49Q9+4VH - Nad Al Sheba - Nad Al Sheba 4 - Dubai - United Arab Emirates<br>
-        Email: <a href="biz@startv.ae">biz@startv.ae</a></p>
+        Email: <a href="quochaid36@gmail.com">quochaid36@gmail.com</a></p>
       </div>
     </div>
   </div>
